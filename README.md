@@ -1,2 +1,3 @@
 # hello-world
-1st try
+It is a good journey to join the Github
+good luck
